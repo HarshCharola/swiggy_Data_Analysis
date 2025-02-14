@@ -14,7 +14,7 @@ This project focuses on analyzing Swiggy restaurant data using SQL to extract me
 - **Top Performers**: Identify top-rated and most versatile restaurants.
 
 ## Files Included
-- **`swiggy_analysis.sql`**: Contains all the SQL queries used in this case study. Each query is designed to answer a specific business question and has been optimized for clarity and performance.
+- **`SwiggyDataAnalysis.sql`**: Contains all the SQL queries used in this case study. Each query is designed to answer a specific business question and has been optimized for clarity and performance.
 
 ## Key Insights
 1. Identified cities with the highest restaurant density.
