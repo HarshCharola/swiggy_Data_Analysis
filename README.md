@@ -23,3 +23,13 @@ This project focuses on analyzing Swiggy restaurant data using SQL to extract me
 4. Evaluated menu diversity and item-specific insights.
 5. Found restaurants catering to specific dietary preferences, such as 100% vegetarian options.
 
+## Tools Used
+- **SQL**: Primary language for querying and analyzing data.
+- **Database Management System (DBMS)**: MySQL, for executing queries and managing the dataset.
+- **Text Editor**: Used to write and organize SQL queries.
+- **GitHub**: For version control and sharing the project.
+- **Swiggy Dataset**: Hypothetical dataset used to simulate real-world analysis scenarios.
+
+---
+
+Feel free to clone this repository and explore the queries. Contributions and feedback are always welcome!
